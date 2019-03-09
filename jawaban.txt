@@ -1,0 +1,3 @@
+meneurut saya .md file merupakan suatu berkas pada suatu direktori maupun folder yang mencakup file-file lain yang terdapat pada sebuah system.
+
+jika readme.md yakni suatu teks untuk 
